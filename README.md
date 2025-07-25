@@ -7,7 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Laravel - Read IMPORTANT:How to run
+
+How to run: This mainly based on versioning, but the basic CLI to run to be able to see this is
+1)Run composer install
+2)Run npm install
+3)php artisan serve 
+4)Then npm run dev
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
